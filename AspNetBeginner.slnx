@@ -2,4 +2,7 @@
   <Folder Name="/01 - MVC/">
     <Project Path="AspNetBeginner.MVC/AspNetBeginner.MVC.csproj" DisplayName="AspNetBeginner.Mvc" Id="968f1525-1b9c-45f4-b3b1-634a6202cf39" />
   </Folder>
+  <Folder Name="/02 - RazorPages/">
+    <Project Path="AspNetBeginner.RazorPages/AspNetBeginner.RazorPages.csproj" Id="ea323dc0-ef9c-478f-8bd8-ea2143ec5cc2" />
+  </Folder>
 </Solution>
