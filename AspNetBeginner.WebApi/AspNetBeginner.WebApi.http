@@ -1,0 +1,6 @@
+@AspNetBeginner.WebApi_HostAddress = http://localhost:5008
+
+GET {{AspNetBeginner.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

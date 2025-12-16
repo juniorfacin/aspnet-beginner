@@ -1,8 +1,17 @@
 <Solution>
   <Folder Name="/01 - MVC/">
-    <Project Path="AspNetBeginner.MVC/AspNetBeginner.MVC.csproj" DisplayName="AspNetBeginner.Mvc" Id="968f1525-1b9c-45f4-b3b1-634a6202cf39" />
+    <Project Path="AspNetBeginner.MVC/AspNetBeginner.MVC.csproj" Id="968f1525-1b9c-45f4-b3b1-634a6202cf39" />
   </Folder>
   <Folder Name="/02 - RazorPages/">
     <Project Path="AspNetBeginner.RazorPages/AspNetBeginner.RazorPages.csproj" Id="ea323dc0-ef9c-478f-8bd8-ea2143ec5cc2" />
+  </Folder>
+  <Folder Name="/03 - Blazor/">
+    <Project Path="AspNetBeginner.Blazor/AspNetBeginner.Blazor.csproj" Id="cbe4b799-7055-469f-baf5-7dd022bcb2e1" />
+  </Folder>
+  <Folder Name="/04 - BlazorWasm/">
+    <Project Path="AspNetBeginner.BlazorWasm/AspNetBeginner.BlazorWasm.csproj" Id="545aa325-cc87-4bb2-b7c8-0631b2701440" />
+  </Folder>
+  <Folder Name="/05 - WebApi/">
+    <Project Path="AspNetBeginner.WebApi/AspNetBeginner.WebApi.csproj" Id="de99ca1f-1412-47c7-b48d-ad737fbbe4be" />
   </Folder>
 </Solution>
